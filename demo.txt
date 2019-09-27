@@ -1,3 +1,4 @@
+
 branch demo
 rahul-query
 recurse merge demo
@@ -10,3 +11,7 @@ pull conflict demo - 2
 demo for conflict in pull
 protected branch demo
 PR DEMO - 1
+change by manish
+
+change in manish in demo.txt
+change in demo.txt by manish
